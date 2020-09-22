@@ -15,9 +15,21 @@ If the user fails to enter information at any point during the building of the t
 
 Once all team members are added, an HTML file will be generated in the 'output' folder containing the team roster with all pertinent information for each team member.
 
+
 ## Information
 
 Built using Node.js and the inquirer library.
+
+
+Below is an example of the inputs a user will be prompted to use:
+
+![Image of user inputs]
+(assets/app-prompts.png)
+
+Below is an example of the output:
+
+![Image of example output]
+(assets/app-output.png)
 
 ## Testing
 
